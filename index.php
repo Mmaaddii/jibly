@@ -1,1 +1,5 @@
-// this is a php file for test
+<?php 
+
+	echo "string";
+
+ ?>
