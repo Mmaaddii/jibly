@@ -1,5 +1,5 @@
 <?php 
 
-	echo "other";
+	echo "nice thing";
 
  ?>
